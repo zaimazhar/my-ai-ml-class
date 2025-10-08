@@ -1,0 +1,1 @@
+docker run --rm -v .:/app -it my-ai-ml-class python main.py
