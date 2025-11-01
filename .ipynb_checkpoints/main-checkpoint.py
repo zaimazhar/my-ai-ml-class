@@ -9,4 +9,10 @@ def main():
         print(f"Number: {i}")
         print(f"Square root of {i}: {math.sqrt(i)}")
 
+class Student:
+    school = "ABC School"
+
+    @staticmethod
+    def 
+
 main()
